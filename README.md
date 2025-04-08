@@ -1,0 +1,1 @@
+https://lingovera.vercel.app/
